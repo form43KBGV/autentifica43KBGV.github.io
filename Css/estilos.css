@@ -1,18 +1,18 @@
-body {
+body{
   font-family: sans-serif;
   text-align: center;
 }
 
-form {
+form{
   display: inline-block;
   text-align: start;
 }
 
-p>label>* {
+p>label>*{
   display: block;
 }
 
-mi-footer {
+mi-footer{
   display: block;
   margin: 1rem 0;
   font-size: small;
