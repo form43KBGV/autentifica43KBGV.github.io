@@ -1,7 +1,7 @@
-class MiFooter extends HTMLElement {
-  connectedCallback() {
+class MiFooter extends HTMLElement{
+  connectedCallback(){
     this.innerHTML = /* html */
-      `Copyright &copy; 2020 Gutierrez Vargas Kevin Brayan`;
+      `Copyright &copy; 2021 G`;
   }
 }
 customElements.define("mi-footer", MiFooter);
